@@ -46,3 +46,11 @@ Perform the following tasks:
   - Put each dataset into separate overlays that can be turned on and off independently.
 
   - Add layer controls to your map.
+
+# **Citations:**
+
+Instructor: [Othmane Benyoucef](https://www.linkedin.com/in/othmane-benyoucef-219a8637/)
+
+[Cart DB Dark Matter Layer](https://github.com/CartoDB/basemap-styles)
+
+[Await Function()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
