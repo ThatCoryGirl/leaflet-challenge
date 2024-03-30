@@ -8,3 +8,13 @@ body,
 html {
   height: 100%;
 }
+
+.legend {
+  /* Default legend text color */
+  color: black;
+}
+
+.legend-dark {
+  /* Legend text color for CartoDB Dark Matter layer */
+  color: white;
+}
